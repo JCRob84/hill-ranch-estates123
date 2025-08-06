@@ -1,0 +1,9 @@
+<script>
+  document.addEventListener("DOMContentLoaded", function() {
+    $("#magazine").turn({
+      width: 800,
+      height: 500,
+      autoCenter: true
+    });
+  });
+</script>
